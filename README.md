@@ -1,1 +1,1 @@
-# coen344-computervision
+# coen344-ComputerVision
